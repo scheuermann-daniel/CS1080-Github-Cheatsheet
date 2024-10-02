@@ -5,15 +5,17 @@
 The  task is daunting, but you can do it. With these simple steps, you can connect to github easily for each classwork and submit your assignments without issue.
 
 ## Part One: Connecting your local folder to Github
+![Screenshot 2024-10-02 180649](https://github.com/user-attachments/assets/1dc3d721-f1b1-4b7f-b4d0-625b98e9fc68)
 
 #### 1.) Open https://github.com and sign in.
 
-#### 2.) Create a new repository with an informative name, and description. For classworks and projects, set the the repository to 'public'.![Screenshot 2024-10-02 173338](https://github.com/user-attachments/assets/103b7c29-e2d2-4c13-a069-8ae575a9c77f)
+#### 2.) Create a new repository for your classwork/project. For this class, set the the repository to 'public'.
+![Screenshot 2024-10-02 173338](https://github.com/user-attachments/assets/103b7c29-e2d2-4c13-a069-8ae575a9c77f)
 ![Screenshot 2024-10-02 173417](https://github.com/user-attachments/assets/e546ea04-49c0-4001-8960-88fc7e9ee64b)
 ![Screenshot 2024-10-02 173428](https://github.com/user-attachments/assets/086d87ef-4b64-41e7-afa3-e64e656ec29a)
 
 
-#### 3.) On your computer, create a new folder to hold the files for your project.
+#### 3.) On your computer, create a new folder to hold the files for your classwork/project.
 ![Screenshot 2024-10-02 173533](https://github.com/user-attachments/assets/c3b24f58-fcaa-43fb-9b25-6adaea803469)
 
 #### 4.) Open VSCode.
