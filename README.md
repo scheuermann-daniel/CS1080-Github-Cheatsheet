@@ -44,7 +44,11 @@ The  task is daunting, but you can do it. With these simple steps, you can conne
 ## Part Two: Pushing changes to Github
 ![image](https://github.com/user-attachments/assets/d9868482-f321-4033-84da-0149f6253ada)
 
-### Repeat the following whenever you make changes or add files:
+### Repeat the following in your terminal when you're ready to send your changes to Github:
+Make sure to run each command separately
+
+---
+
 #### <code> git add . </code>
 - This adds your file to a 'queue'
 
