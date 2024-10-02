@@ -47,17 +47,17 @@ Make sure to run each command separately
 ---
 
 #### <code> git add . </code>
-- This adds your file to a 'queue'
+- This adds your changes to a delivery line
 
 ---
 
 #### <code> git commit -m "whatever comment you desire" </code>
-- This adds a note to your queue and logs the changes
+- This adds a note to your delivery line with a comment of your choosing
 
 ---
 
 #### <code> git push origin main </code>
-- This send the changes to Github
+- This sends the delivery line (your changes) to Github
 
 ---
 ### Congratulations, you just pushed your changes to Github!
