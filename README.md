@@ -5,7 +5,7 @@
 The  task is daunting, but you can do it. With these simple steps, you can connect to github easily for each classwork and submit your assignments without issue.
 
 ## Part One: Connecting your Local folder to Github
-<code style = "color: red"> You will only do this once per project/classwork </code>
+<span style = "color: red;"> You will only do this once per project/classwork </span>
 
 ## Part Two: Pushing changes to Github
-<code style = "color: red"> vYou will likely do this multiple times during a project/classwork </code>
+<span style = "color: red;"> You will likely do this multiple times during a project/classwork </cspan>
